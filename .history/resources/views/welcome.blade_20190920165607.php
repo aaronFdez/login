@@ -85,7 +85,7 @@
                 </div>
 
                 <div class="links">
-                    <a href="{{ action("ProductController@index") }}">Ir al Crud de productos</a>
+                    <a href="https://laravel.com/docs">Ir al Crud</a>
                 </div>
             </div>
         </div>
